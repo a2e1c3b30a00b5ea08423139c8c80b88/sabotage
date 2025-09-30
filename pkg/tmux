@@ -1,11 +1,11 @@
 [mirrors]
-https://github.com/tmux/tmux/releases/download/3.3a/tmux-3.3a.tar.gz
-http://distfiles.macports.org/tmux/tmux-3.3a.tar.gz
+https://github.com/tmux/tmux/releases/download/3.5a/tmux-3.5a.tar.gz
+http://distfiles.macports.org/tmux/tmux-3.5a.tar.gz
 
 [vars]
-filesize=677448
-sha512=29a846df7d93601c42a22f84f606931dc65da1f70b67d351d0425f77ea3affe3e8218b2940d42cd3dadf3cd1aa95032daad3ecb14fbff0f69939d1beae0498c7
-pkgver=7
+filesize=715619
+sha512=2383e99aec2dcdb1d899793d5ecab40a68b921194f84770d3f4d19712bfc85590657a99d2a9a7bec36d4ba5ab39fa713f13937b0acad3b61cd9b2302dba61d43
+pkgver=8
 uchkurl=https://github.com/tmux/tmux/releases/
 desc='terminal multiplexer, similar to GNU screen but with more features'
 
